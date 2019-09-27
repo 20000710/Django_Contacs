@@ -54,13 +54,9 @@ phonenumbers==8.10.18
 pickleshare==0.7.5
 Pillow==6.0.0
 prometheus-client==0.7.1
-Pygments==2.4.2
-PyInstaller==3.5
 pyparsing==2.4.2
 pyrsistent==0.15.4
 python-dateutil==2.8.0
-pytz==2019.1
-pywin32==225
 pywin32-ctypes==0.2.0
 pywinpty==0.5.5
 PyYAML==5.1.2
